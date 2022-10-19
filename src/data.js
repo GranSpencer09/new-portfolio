@@ -1,36 +1,40 @@
 export const projects = [
   {
-    title: "React Reserve",
+    title: "ConnectKid",
     subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "An app for parents to connect with other parents' and children within their community.",
+    //image: "./project-1.gif",
+    link: "https://thawing-woodland-41631.herokuapp.com/",
+    github: "https://github.com/GranSpencer09/ConnectKid",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "NotYourAverageBookies",
+    subtitle: "MySQL and Handlebars",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Full-stack app that allows users to login & logout to receive book recommendations",
+    //image: "./project-2.gif",
+    link: "https://desolate-inlet-39798.herokuapp.com/",
+    github: "https://github.com/GranSpencer09/NotYourAverageBookies",
   },
   {
-    title: "DevChat",
+    title: "FiHub",
     subtitle: "React and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "An API based web application providing stock and cryptocurrency information",
+    // image: "./project-3.gif",
+    link: "https://ehren-lewis.github.io/FiHub/",
+    github: "https://github.com/GranSpencer09/FiHub",
   },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
+  // {
+  //   title: "Epic Todo App",
+  //   subtitle: "React Hooks",
+  //   description:
+  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+  //   //  image: "./project-4.gif",
+  //   link: "https://reactbootcamp.com",
+  //   github: "",
+  // },
 ];
 
 export const testimonials = [

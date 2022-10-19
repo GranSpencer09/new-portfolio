@@ -12,9 +12,8 @@ export default function About() {
             need.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I'm a junior full stack developer with a background in website
+            development, SEO and marketing.
           </p>
           <div className="flex justify-center">
             <a
