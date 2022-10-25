@@ -8,12 +8,9 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hey I'm Spencer Gran
             <br className="hidden lg:inline-block" />
-            I'm a customer obsessed developer who loves to build what users
-            need.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I'm a junior full stack developer with a background in website
-            development, SEO and marketing.
+            A customer obsessed developer who loves to build what users need.
           </p>
           <div className="flex justify-center">
             <a

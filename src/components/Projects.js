@@ -32,18 +32,19 @@ export default function Projects() {
                   <p className="leading-relaxed">{project.description}</p>
                 </div>
               </div>
-
-              <a href={project.link} target="_blank" rel="noreferrer">
-                <button className="text-white bg-indigo-500 border-0  py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-                  View The App
-                </button>
-              </a>
-              <br></br>
-              <a href={project.github} target="_blank" rel="noreferrer">
-                <button className="text-white bg-indigo-500 border-0  py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-                  GitHub Source Code
-                </button>
-              </a>
+              <div className="row">
+                <a href={project.link} target="_blank" rel="noreferrer">
+                  <button className="text-white bg-indigo-500 border-0 m-2 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+                    View The App
+                  </button>
+                </a>
+                <br />
+                <a href={project.github} target="_blank" rel="noreferrer">
+                  <button className="text-white bg-indigo-500 border-0 m-2 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+                    GitHub Source Code
+                  </button>
+                </a>
+              </div>
             </div>
           ))}
         </div>
