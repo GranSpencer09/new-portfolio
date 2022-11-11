@@ -6,7 +6,7 @@ export const projects = [
     description:
       "An app for parents to connect with other parents' and children within their community",
     image: "./connectkid.png",
-    link: "https://thawing-woodland-41631.herokuapp.com/",
+    link: "https://hidden-spire-64432.herokuapp.com/",
     github: "https://github.com/GranSpencer09/ConnectKid",
   },
   {
@@ -65,4 +65,7 @@ export const skills = [
   "Node",
   "GraphQL",
   "Material UI",
+  "MongoDB",
+  "RESTful APIs",
+  "Redux",
 ];
